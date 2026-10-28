@@ -68,3 +68,5 @@ Pet-Paradise/
 Pet Paradise started as a way to practice Python, but it grew into a larger project where I could combine different programming concepts into one application.
 
 My main goal was to make the game playable while keeping the code organized and easy to work with.
+
+<img src="gameplay1.png" width="500" alt="Pet Tamagochi main menu">
